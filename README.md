@@ -9,7 +9,7 @@
 本节说明：不想看长文，直接看这几条。
 
 - **综合最推荐**：sogo云，全 IPLC 专线，晚高峰实测香港延迟 14–23ms，年付 ¥98 起，新人码 `sogo10000` 9 折。
-- **预算最低**：无忧，年付 ¥79（每月 40GB）。
+- **预算最低**：无忧，年付 ¥79（每月 50GB）。
 - **学生党**：飞猫云学生版，年付 ¥84。
 - **偶尔用 / 备用**：二猫云 ¥99 买 100GB 永久流量。
 
@@ -27,7 +27,7 @@
 | 6 | [二猫云](https://findtizi.blog/ceping/ermao/) | ¥89/年（60GB/月） | IEPL 专线 | 60 | `ermao888` 新用户优惠 |
 | 7 | [Firefly](https://findtizi.blog/ceping/firefly/) | ¥96/年（60GB/月） | IPLC 专线 | 49 | `firefly` 新用户 8 折 |
 | 8 | [宇宙云](https://findtizi.blog/ceping/yuzhou/) | ¥96/年（60GB/月） | IEPL / IPLC 专线 | 70+ | `YUZHOU553` 新用户 8 折 |
-| 9 | [无忧](https://findtizi.blog/ceping/wuyou/) | ¥79/年（40GB/月） | IPLC 专线 | 49 | `wuyou` 新用户优惠 |
+| 9 | [无忧](https://findtizi.blog/ceping/wuyou/) | ¥79/年（50GB/月） | IPLC 专线 | 49 | `wuyou` 新用户优惠 |
 | 10 | [光速云](https://findtizi.blog/ceping/guangsu/) | ¥99/年（59GB/月） | IPLC 专线 | 69 | `AMM` 新用户 8 折 |
 | 11 | [星岛梦](https://findtizi.blog/ceping/xingdaomeng/) | ¥96/年（60GB/月） | IPLC / IEPL 专线 | 69 | `nmw888` 新用户优惠 |
 | 12 | [唯兔云](https://findtizi.blog/ceping/weitu/) | ¥79.9/年（45GB/月） | IEPL / IPLC 专线 + 备用直连 | 71 | `rabbit` 新人首单优惠 |
